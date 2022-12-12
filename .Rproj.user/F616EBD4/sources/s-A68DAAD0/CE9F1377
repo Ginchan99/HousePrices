@@ -1,11 +1,11 @@
 {
     "id": "CE9F1377",
-    "path": null,
-    "project_path": null,
+    "path": "C:/Users/tusht/OneDrive/Desktop/BDA_Datasets/HousePrices/HousePriceAnalysis.R",
+    "project_path": "HousePriceAnalysis.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2237134958",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1670838274439.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,0",
-        "scrollLine": "0"
+        "cursorPosition": "80,0",
+        "scrollLine": "74"
     },
     "folds": "",
-    "lastKnownWriteTime": 3539893226500879457,
-    "encoding": "",
+    "lastKnownWriteTime": 1670843882,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1670840838173,
+    "last_content_update": 1670843882092,
     "read_only": false,
     "read_only_alternatives": []
 }
